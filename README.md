@@ -1,4 +1,4 @@
-# Sosyal-Medyada-Intihar-Depresyon-ve-Siber-Zorbalik-Bitirme-Projesi
+# Sosyal Medyada İntihar, Depresyon ve Siber Zorbalık Bitirme Projesi
 19-20 Dönemi Bitirme Projesinde Kullanılan Kaynak Kod
 
 Veri madenciliği teknikleri uygulanarak Twitter platformunda depresif duygu içerikli ve intihar düşüncesi içeren tweetlerin tespit edilmesi projenin temel amacıdır.
